@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f2a6eac-0163-4c43-be13-1e99dfde2929" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LzL5SpJnS1i7YO58NTauTJMTqx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.AStar">
+    <configuration name="AStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AStar" />
+      <module name="AStarSearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AStarAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AStarAlgorithm" />
+      <module name="AStarSearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AStar" />
+        <item itemvalue="Application.AStarAlgorithm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f2a6eac-0163-4c43-be13-1e99dfde2929" name="Default Changelist" comment="" />
+      <created>1676868780802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676868780802</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1676879542084">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/1920.-510.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1676879542084" />
+    <state x="1170" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1677203588520">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1170" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.-510.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1677203588520" />
+    <state width="914" height="283" key="GridCell.Tab.0.bottom" timestamp="1677232382647">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="283" key="GridCell.Tab.0.bottom/1920.-510.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1677232382647" />
+    <state width="914" height="283" key="GridCell.Tab.0.center" timestamp="1677232382647">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="283" key="GridCell.Tab.0.center/1920.-510.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1677232382647" />
+    <state width="914" height="283" key="GridCell.Tab.0.left" timestamp="1677232382647">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="283" key="GridCell.Tab.0.left/1920.-510.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1677232382647" />
+    <state width="914" height="283" key="GridCell.Tab.0.right" timestamp="1677232382647">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="914" height="283" key="GridCell.Tab.0.right/1920.-510.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1677232382647" />
+    <state x="325" y="700" key="com.intellij.ide.util.TipDialog" timestamp="1678150110476">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="325" y="700" key="com.intellij.ide.util.TipDialog/1920.-510.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1678150110476" />
+    <state x="2103" y="837" key="com.intellij.ide.util.TipDialog/1920.-510.1080.1890/0.0.1920.1050@1920.-510.1080.1890" timestamp="1676868784499" />
+    <state x="0" y="150" key="new project wizard" timestamp="1678150145119">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="150" key="new project wizard/1920.-510.1080.1890/0.0.1920.1050@0.0.1920.1050" timestamp="1678150145119" />
+  </component>
+</project>
